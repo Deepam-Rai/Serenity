@@ -3,10 +3,20 @@ Build for the EMIDS Hackathon 2022. Theme: Population Preventive Healthcare.
 
 
 # Team
+**Mentors:** 
+- P. Sunil Kumar, Asst. Professor, Mathematics & Computer Science, SSSIHL
+- V. Bhaskaran, Asst. Professor, Mathematics & Computer Science, SSSIHL  
+
+**Members:** 
 - Sai Nithish: https://github.com/RSaiNithish
 - Narendra: https://github.com/NarendraPolimera
 - Deepam Rai: https://github.com/Deepam-Rai
   
+We are very much thankful to:
+- DMACS, SSSIHL
+- DMC, SSSIHL
+- K. Raghava, Research Scholar, DMACS, SSSIHL
+
 # Theme  
 Population Preventive Healthcare
 
